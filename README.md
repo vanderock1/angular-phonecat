@@ -1,5 +1,5 @@
 # AngularJS Phone Catalog Tutorial Application
-
+# Pete and SelaBB
 ## Overview
 
 This application takes the developer through the process of building a web-application using
